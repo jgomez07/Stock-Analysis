@@ -13,11 +13,11 @@ Comparing our results between 2017 and 2018, it seems that our client should opt
 After building a nested loop macro and a macro with a single variable that would only loop once. the expectation was the single variable macro. 
 
 
-! [2017 Stock Return Data Results]   https://github.com/jgomez07/Stock-Analysis/blob/master/Resources/VBA_Challenge_2017.png
+! [2017 Stock Return Data Results]   (https://github.com/jgomez07/Stock-Analysis/blob/master/Resources/VBA_Challenge_2017.png)
 
 
 
-![2018 Stock Return Data Results]  https://github.com/jgomez07/Stock-Analysis/blob/master/Resources/VBA_Challenge_2018.png
+![2018 Stock Return Data Results]  (https://github.com/jgomez07/Stock-Analysis/blob/master/Resources/VBA_Challenge_2018.png)
 
  
 ## Summary
